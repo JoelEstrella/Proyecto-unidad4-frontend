@@ -305,7 +305,7 @@ body {
   left: auto;
   right: 0;
   margin-right: 50px;
-  background: transparent url("/resources/img/slider/rigth.png") no-repeat
+  background: transparent url("resources/img/slider/rigth.png") no-repeat
     center;
 }
 
@@ -313,7 +313,7 @@ body {
   left: 0;
   right: auto;
   margin-left: 50px;
-  background: transparent url("/resources/img/slider/left.png") no-repeat center;
+  background: transparent url("resources/img/slider/left.png") no-repeat center;
 }
 
 .callbacks_nav:hover {
